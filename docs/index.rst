@@ -5,12 +5,12 @@ How FixMeStick Customer Service Ensures Your Satisfaction
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: getsupport.jpg
- :target: https://fixmestick.app/
-   :alt: FixMeStick Customer Service
-   :width:200px
-   :align:center
-   :margin:20px
+ .. image:: getsupport.jpg
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
+ 
 
 Although there are times when technology can be difficult, having a trustworthy support staff is crucial. From troubleshooting to setup support, FixMeStick customer service is dedicated to making sure users have a flawless experience. In order to help you get the most out of your device, this article will examine how FixMeStick's customer service is unique.
 
