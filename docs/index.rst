@@ -4,7 +4,13 @@ How FixMeStick Customer Service Ensures Your Satisfaction
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-______
+
+.. image:: getsupport.jpg
+   :alt: Get Support Image
+   :align: center
+   :target: https://fixmestick.app/
+   :width: 200px
+
 
  
 
